@@ -1,0 +1,15 @@
+C:\VS Code Projects\design-patterns\behavioral-patterns\iterator\iterator\bin\Debug\net8.0\iterator.exe
+C:\VS Code Projects\design-patterns\behavioral-patterns\iterator\iterator\bin\Debug\net8.0\iterator.deps.json
+C:\VS Code Projects\design-patterns\behavioral-patterns\iterator\iterator\bin\Debug\net8.0\iterator.runtimeconfig.json
+C:\VS Code Projects\design-patterns\behavioral-patterns\iterator\iterator\bin\Debug\net8.0\iterator.dll
+C:\VS Code Projects\design-patterns\behavioral-patterns\iterator\iterator\bin\Debug\net8.0\iterator.pdb
+C:\VS Code Projects\design-patterns\behavioral-patterns\iterator\iterator\obj\Debug\net8.0\iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Code Projects\design-patterns\behavioral-patterns\iterator\iterator\obj\Debug\net8.0\iterator.AssemblyInfoInputs.cache
+C:\VS Code Projects\design-patterns\behavioral-patterns\iterator\iterator\obj\Debug\net8.0\iterator.AssemblyInfo.cs
+C:\VS Code Projects\design-patterns\behavioral-patterns\iterator\iterator\obj\Debug\net8.0\iterator.csproj.CoreCompileInputs.cache
+C:\VS Code Projects\design-patterns\behavioral-patterns\iterator\iterator\obj\Debug\net8.0\iterator.sourcelink.json
+C:\VS Code Projects\design-patterns\behavioral-patterns\iterator\iterator\obj\Debug\net8.0\iterator.dll
+C:\VS Code Projects\design-patterns\behavioral-patterns\iterator\iterator\obj\Debug\net8.0\refint\iterator.dll
+C:\VS Code Projects\design-patterns\behavioral-patterns\iterator\iterator\obj\Debug\net8.0\iterator.pdb
+C:\VS Code Projects\design-patterns\behavioral-patterns\iterator\iterator\obj\Debug\net8.0\iterator.genruntimeconfig.cache
+C:\VS Code Projects\design-patterns\behavioral-patterns\iterator\iterator\obj\Debug\net8.0\ref\iterator.dll
