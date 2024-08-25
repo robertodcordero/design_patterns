@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "chain-of-responsability/1.0.0": {
+        "runtime": {
+          "chain-of-responsability.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chain-of-responsability/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
