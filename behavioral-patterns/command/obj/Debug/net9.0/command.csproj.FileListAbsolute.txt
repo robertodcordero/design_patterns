@@ -1,0 +1,15 @@
+C:\VS Code Projects\design-patterns\behavioral-patterns\command\bin\Debug\net9.0\command.exe
+C:\VS Code Projects\design-patterns\behavioral-patterns\command\bin\Debug\net9.0\command.deps.json
+C:\VS Code Projects\design-patterns\behavioral-patterns\command\bin\Debug\net9.0\command.runtimeconfig.json
+C:\VS Code Projects\design-patterns\behavioral-patterns\command\bin\Debug\net9.0\command.dll
+C:\VS Code Projects\design-patterns\behavioral-patterns\command\bin\Debug\net9.0\command.pdb
+C:\VS Code Projects\design-patterns\behavioral-patterns\command\obj\Debug\net9.0\command.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Code Projects\design-patterns\behavioral-patterns\command\obj\Debug\net9.0\command.AssemblyInfoInputs.cache
+C:\VS Code Projects\design-patterns\behavioral-patterns\command\obj\Debug\net9.0\command.AssemblyInfo.cs
+C:\VS Code Projects\design-patterns\behavioral-patterns\command\obj\Debug\net9.0\command.csproj.CoreCompileInputs.cache
+C:\VS Code Projects\design-patterns\behavioral-patterns\command\obj\Debug\net9.0\command.sourcelink.json
+C:\VS Code Projects\design-patterns\behavioral-patterns\command\obj\Debug\net9.0\command.dll
+C:\VS Code Projects\design-patterns\behavioral-patterns\command\obj\Debug\net9.0\refint\command.dll
+C:\VS Code Projects\design-patterns\behavioral-patterns\command\obj\Debug\net9.0\command.pdb
+C:\VS Code Projects\design-patterns\behavioral-patterns\command\obj\Debug\net9.0\command.genruntimeconfig.cache
+C:\VS Code Projects\design-patterns\behavioral-patterns\command\obj\Debug\net9.0\ref\command.dll
